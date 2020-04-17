@@ -18,3 +18,7 @@
 
 ## Student Requirements
 1. Have a very firm grasp on core Python.
+
+## Additional Resources
+1. [Real Python: OOP in Python 3](https://realpython.com/python3-object-oriented-programming/) - A great tutorial on what we learned in class plus some additional advanced topics and bonus problems.
+1. [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) - Learn OOP and blockchain at the same time!
